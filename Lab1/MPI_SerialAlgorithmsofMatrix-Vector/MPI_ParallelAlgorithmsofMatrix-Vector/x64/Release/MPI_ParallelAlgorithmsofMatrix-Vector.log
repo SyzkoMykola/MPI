@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\syzko.mykola\Documents\git\MPI_SerialAlgorithmsofMatrix-Vector\MPI_ParallelAlgorithmsofMatrix-Vector\main.cpp(225,64): warning C4101: 'c': unreferenced local variable
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 11 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  MPI_ParallelAlgorithmsofMatrix-Vector.vcxproj -> C:\Users\syzko.mykola\Documents\git\MPI_SerialAlgorithmsofMatrix-Vector\x64\Release\MPI_ParallelAlgorithmsofMatrix-Vector.exe

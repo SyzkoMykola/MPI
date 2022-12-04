@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\syzko.mykola\Documents\git\MPI_ParallelAlgorithmsofMatrix-Vector\MPI_ParallelAlgorithmsofMatrix-Vector\main.cpp(212,35): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  MPI_ParallelAlgorithmsofMatrix-Vector.vcxproj -> C:\Users\syzko.mykola\Documents\git\MPI_ParallelAlgorithmsofMatrix-Vector\x64\Debug\MPI_ParallelAlgorithmsofMatrix-Vector.exe
