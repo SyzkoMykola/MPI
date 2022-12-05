@@ -24,6 +24,7 @@
     <ProjectGuid>{42a3c6cf-4e7c-4885-95f8-71f5658945b7}</ProjectGuid>
     <RootNamespace>MPIParallelAlgorithmsofMatrixVector</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>MPI_SerialAlgorithmsofMatrix-Vector</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
