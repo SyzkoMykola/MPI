@@ -1,51 +1,16 @@
-----------                                                                                                                                 
-serial                                                                                                                                   
-----------                                                                                                                                 
-**********************************************************************************************************************************10 - serial        
-Parallel matrix-vector multiplication program
-
-Enter the size of the matrix and vector: Time of serial execution = 0.000001
-**********************************************************************************************************************************100 - serial       
-Parallel matrix-vector multiplication program
-
-Enter the size of the matrix and vector: Time of serial execution = 0.000008
-**********************************************************************************************************************************1000 - serial      
-Parallel matrix-vector multiplication program
-
-Enter the size of the matrix and vector: Time of serial execution = 0.001226
-**********************************************************************************************************************************2000 - serial      
-Parallel matrix-vector multiplication program
-
-Enter the size of the matrix and vector: Time of serial execution = 0.004647
-**********************************************************************************************************************************3000 - serial      
-Parallel matrix-vector multiplication program
-
-Enter the size of the matrix and vector: Time of serial execution = 0.011020
-**********************************************************************************************************************************4000 - serial      
-Parallel matrix-vector multiplication program
-
-Enter the size of the matrix and vector: Time of serial execution = 0.018133
-**********************************************************************************************************************************5000 - serial      
-Parallel matrix-vector multiplication program
-
-Enter the size of the matrix and vector: Time of serial execution = 0.028871
-**********************************************************************************************************************************6000 - serial      
-Parallel matrix-vector multiplication program
-
-Enter the size of the matrix and vector: Time of serial execution = 0.042218
-**********************************************************************************************************************************7000 - serial      
-Parallel matrix-vector multiplication program
-
-Enter the size of the matrix and vector: Time of serial execution = 0.054877
-**********************************************************************************************************************************8000 - serial      
-Parallel matrix-vector multiplication program
-
-Enter the size of the matrix and vector: Time of serial execution = 0.072825
-**********************************************************************************************************************************9000 - serial      
-Parallel matrix-vector multiplication program
-
-Enter the size of the matrix and vector: Time of serial execution = 0.096418
-**********************************************************************************************************************************10000 - serial     
-Parallel matrix-vector multiplication program
-
-Enter the size of the matrix and vector: Time of serial execution = 0.129957
+---------- 
+1 proc    
+---------- 
+--------------------------------------------------- 
+ 0.000000
+ 0.000013
+ 0.001665
+ 0.008202
+ 0.016940
+ 0.027039
+ 0.037787
+ 0.049953
+ 0.067660
+ 0.086827
+ 0.111683
+ 0.137620
