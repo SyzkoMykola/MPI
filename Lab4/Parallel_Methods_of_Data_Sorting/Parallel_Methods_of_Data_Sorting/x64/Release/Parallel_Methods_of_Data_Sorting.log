@@ -1,0 +1,6 @@
+﻿  main.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 34 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Parallel_Methods_of_Data_Sorting.vcxproj -> C:\Users\syzko.mykola\Documents\GitHub\MPI\Lab4\Parallel_Methods_of_Data_Sorting\x64\Release\Parallel_Methods_of_Data_Sorting.exe
