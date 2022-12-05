@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\syzko.mykola\Documents\GitHub\MPI\Lab2\MPI_ParallelAlgorithmsofMatrix-Matrix\MPI_ParallelAlgorithmsofMatrix-Matrix\main.cpp(234,35): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\syzko.mykola\Documents\GitHub\MPI\Lab2\MPI_ParallelAlgorithmsofMatrix-Matrix\MPI_ParallelAlgorithmsofMatrix-Matrix\main.cpp(249,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 20 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  MPI_ParallelAlgorithmsofMatrix-Matrix.vcxproj -> C:\Users\syzko.mykola\Documents\GitHub\MPI\Lab2\MPI_ParallelAlgorithmsofMatrix-Matrix\x64\Release\MPI_ParallelAlgorithmsofMatrix-Matrix.exe

@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\syzko.mykola\Documents\GitHub\MPI\Lab2\MPI_SerialAlgorithmsofMatrix-Matrix\MPI_SerialAlgorithmsofMatrix-Matrix\main.cpp(72,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 11 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  MPI_SerialAlgorithmsofMatrix-Matrix.vcxproj -> C:\Users\syzko.mykola\Documents\GitHub\MPI\Lab2\MPI_SerialAlgorithmsofMatrix-Matrix\x64\Release\MPI_SerialAlgorithmsofMatrix-Matrix.exe
